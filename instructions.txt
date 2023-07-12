@@ -1,0 +1,9 @@
+1. Use 'npm install' both in current directory and client directory to install node modules
+2. Install ganache on your system
+3. Make a workspace in ganache
+4. Install metamask wallet in chrome (preferably)
+5. Add the ganache network to metamask by rpc url, chain id 1337
+6. Add accounts to metamask from ganache
+7. Run 'npx truffle --network develop' in current directory
+8. Run 'npm start' in client directory to start app
+9. Connect the metamask wallet accounts to the app
